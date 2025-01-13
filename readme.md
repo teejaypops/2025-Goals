@@ -201,6 +201,19 @@ Q1
     - Scrape or analyze a CSV file containing historical football.
     - API endpoint to analyze information(curl)
 </details>
+
+
+<details>
+
+  <summary> teejaypops Goal </summary>
+  
+---
+Q1
+- Complete 1/2 of SYO 701 
+- Set up a lab.
+- Practice & understand security measures" i.e honeynets, honeypots, etc.  
+</details>
+
 <details>
 
   <summary> Copy this sample block </summary>
